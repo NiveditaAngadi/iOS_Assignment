@@ -1,0 +1,364 @@
+{
+  "products": [
+    {
+      "id": 0,
+      "title": "VIZIO D-Series 40\" Class 1080p Full-Array LED HD Smart TV",
+      "aisle": "b2",
+      "description": "fetch full product with details from https://api.target.com/mobile_case_study_deals/v1/deals/0",
+      "image_url": "https://appstorage.target.com/app-data/native-tha-images/1.jpg",
+      "regular_price": {
+        "amount_in_cents": 22999,
+        "currency_symbol": "$",
+        "display_string": "$229.99"
+      },
+      "fulfillment": "Online",
+      "availability": "In stock"
+    },
+    {
+      "id": 1,
+      "title": "TCL 32\" Class 3-Series HD Smart Roku TV",
+      "aisle": "g33",
+      "description": "fetch full product with details from https://api.target.com/mobile_case_study_deals/v1/deals/1",
+      "image_url": "https://appstorage.target.com/app-data/native-tha-images/2.jpg",
+      "regular_price": {
+        "amount_in_cents": 20999,
+        "currency_symbol": "$",
+        "display_string": "$209.99"
+      },
+      "sale_price": {
+        "amount_in_cents": 15999,
+        "currency_symbol": "$",
+        "display_string": "$159.99"
+      },
+      "fulfillment": "Online",
+      "availability": "In stock"
+    },
+    {
+      "id": 2,
+      "title": "Hisense 50\" Class- A6G Series 4K UHD Android Smart TV",
+      "aisle": "a1",
+      "description": "fetch full product with details from https://api.target.com/mobile_case_study_deals/v1/deals/2",
+      "image_url": "https://appstorage.target.com/app-data/native-tha-images/3.jpg",
+      "regular_price": {
+        "amount_in_cents": 38999,
+        "currency_symbol": "$",
+        "display_string": "$389.99"
+      },
+      "sale_price": {
+        "amount_in_cents": 31999,
+        "currency_symbol": "$",
+        "display_string": "$319.99"
+      },
+      "fulfillment": "Online",
+      "availability": "In stock"
+    },
+    {
+      "id": 3,
+      "title": "VIZIO D-Series 32\" Class 720p Full-Array LED HD Smart TV",
+      "aisle": "c20",
+      "description": "fetch full product with details from https://api.target.com/mobile_case_study_deals/v1/deals/3",
+      "image_url": "https://appstorage.target.com/app-data/native-tha-images/4.jpg",
+      "regular_price": {
+        "amount_in_cents": 16999,
+        "currency_symbol": "$",
+        "display_string": "$169.99"
+      },
+      "sale_price": {
+        "amount_in_cents": 15999,
+        "currency_symbol": "$",
+        "display_string": "$159.99"
+      },
+      "fulfillment": "Online",
+      "availability": "In stock"
+    },
+    {
+      "id": 4,
+      "title": "Hisense 55\" Class- A6G Series 4K UHD Android Smart TV",
+      "aisle": "c19",
+      "description": "fetch full product with details from https://api.target.com/mobile_case_study_deals/v1/deals/4",
+      "image_url": "https://appstorage.target.com/app-data/native-tha-images/5.jpg",
+      "regular_price": {
+        "amount_in_cents": 42999,
+        "currency_symbol": "$",
+        "display_string": "$429.99"
+      },
+      "fulfillment": "Online",
+      "availability": "In stock"
+    },
+    {
+      "id": 5,
+      "title": "VIZIO V-Series 50\" Class 4K HDR Smart TV",
+      "aisle": "f99",
+      "description": "fetch full product with details from https://api.target.com/mobile_case_study_deals/v1/deals/5",
+      "image_url": "https://appstorage.target.com/app-data/native-tha-images/6.jpg",
+      "regular_price": {
+        "amount_in_cents": 37999,
+        "currency_symbol": "$",
+        "display_string": "$379.99"
+      },
+      "sale_price": {
+        "amount_in_cents": 29999,
+        "currency_symbol": "$",
+        "display_string": "$299.99"
+      },
+      "fulfillment": "Online",
+      "availability": "In stock"
+    },
+    {
+      "id": 6,
+      "title": "TCL 55\" Class 4-Series 4K UHD HDR Smart Roku TV",
+      "aisle": "a2",
+      "description": "fetch full product with details from https://api.target.com/mobile_case_study_deals/v1/deals/6",
+      "image_url": "https://appstorage.target.com/app-data/native-tha-images/7.jpg",
+      "regular_price": {
+        "amount_in_cents": 51999,
+        "currency_symbol": "$",
+        "display_string": "$519.99"
+      },
+      "sale_price": {
+        "amount_in_cents": 35999,
+        "currency_symbol": "$",
+        "display_string": "$359.99"
+      },
+      "fulfillment": "Online",
+      "availability": "In stock"
+    },
+    {
+      "id": 7,
+      "title": "TCL 40\" Class 3-Series Full HD Smart Roku TV",
+      "aisle": "g17",
+      "description": "fetch full product with details from https://api.target.com/mobile_case_study_deals/v1/deals/7",
+      "image_url": "https://appstorage.target.com/app-data/native-tha-images/8.jpg",
+      "regular_price": {
+        "amount_in_cents": 29999,
+        "currency_symbol": "$",
+        "display_string": "$299.99"
+      },
+      "sale_price": {
+        "amount_in_cents": 21999,
+        "currency_symbol": "$",
+        "display_string": "$219.99"
+      },
+      "fulfillment": "Online",
+      "availability": "In stock"
+    },
+    {
+      "id": 8,
+      "title": "Samsung 55\" Smart 4K Crystal HDR UHD TV TU7000 Series",
+      "aisle": "h31",
+      "description": "fetch full product with details from https://api.target.com/mobile_case_study_deals/v1/deals/8",
+      "image_url": "https://appstorage.target.com/app-data/native-tha-images/9.jpg",
+      "regular_price": {
+        "amount_in_cents": 49999,
+        "currency_symbol": "$",
+        "display_string": "$499.99"
+      },
+      "sale_price": {
+        "amount_in_cents": 40999,
+        "currency_symbol": "$",
+        "display_string": "$409.99"
+      },
+      "fulfillment": "Online",
+      "availability": "In stock"
+    },
+    {
+      "id": 9,
+      "title": "Element 32\" 720p HD LED Roku TV",
+      "aisle": "x0",
+      "description": "fetch full product with details from https://api.target.com/mobile_case_study_deals/v1/deals/9",
+      "image_url": "https://appstorage.target.com/app-data/native-tha-images/10.jpg",
+      "regular_price": {
+        "amount_in_cents": 2599,
+        "currency_symbol": "$",
+        "display_string": "$25.99"
+      },
+      "sale_price": {
+        "amount_in_cents": 1298,
+        "currency_symbol": "$",
+        "display_string": "$12.98"
+      },
+      "fulfillment": "Online",
+      "availability": "In stock"
+    },
+    {
+      "id": 10,
+      "title": "Gray Oak TV Stand - Henn & Hart",
+      "aisle": "b2",
+      "description": "fetch full product with details from https://api.target.com/mobile_case_study_deals/v1/deals/10",
+      "image_url": "https://appstorage.target.com/app-data/native-tha-images/11.jpg",
+      "regular_price": {
+        "amount_in_cents": 19198,
+        "currency_symbol": "$",
+        "display_string": "$191.98"
+      },
+      "fulfillment": "Online",
+      "availability": "In stock"
+    },
+    {
+      "id": 11,
+      "title": "Supersonic SC-499 9 TFT Portable Digital LCD TV, AC/DC Compatible with RV/Boat",
+      "aisle": "g33",
+      "description": "fetch full product with details from https://api.target.com/mobile_case_study_deals/v1/deals/11",
+      "image_url": "https://appstorage.target.com/app-data/native-tha-images/12.jpg",
+      "regular_price": {
+        "amount_in_cents": 17999,
+        "currency_symbol": "$",
+        "display_string": "$179.99"
+      },
+      "sale_price": {
+        "amount_in_cents": 12999,
+        "currency_symbol": "$",
+        "display_string": "$129.99"
+      },
+      "fulfillment": "Online",
+      "availability": "In stock"
+    },
+    {
+      "id": 12,
+      "title": "Emma and Oliver TV Stand in Brown Oak Wood Grain Finish with Metal Wheels",
+      "aisle": "a1",
+      "description": "fetch full product with details from https://api.target.com/mobile_case_study_deals/v1/deals/12",
+      "image_url": "https://appstorage.target.com/app-data/native-tha-images/13.jpg",
+      "regular_price": {
+        "amount_in_cents": 18899,
+        "currency_symbol": "$",
+        "display_string": "$188.99"
+      },
+      "fulfillment": "Online",
+      "availability": "In stock"
+    },
+    {
+      "id": 13,
+      "title": "Element 55\" 4K UHD Roku LED TV",
+      "aisle": "c20",
+      "description": "fetch full product with details from https://api.target.com/mobile_case_study_deals/v1/deals/13",
+      "image_url": "https://appstorage.target.com/app-data/native-tha-images/14.jpg",
+      "regular_price": {
+        "amount_in_cents": 44999,
+        "currency_symbol": "$",
+        "display_string": "$449.99"
+      },
+      "sale_price": {
+        "amount_in_cents": 30999,
+        "currency_symbol": "$",
+        "display_string": "$309.99"
+      },
+      "fulfillment": "Online",
+      "availability": "In stock"
+    },
+    {
+      "id": 14,
+      "title": "Samsung 65\" Smart 4K Crystal HDR UHD TV TU7000 Series (Titan Gray)",
+      "aisle": "c19",
+      "description": "fetch full product with details from https://api.target.com/mobile_case_study_deals/v1/deals/14",
+      "image_url": "https://appstorage.target.com/app-data/native-tha-images/15.jpg",
+      "regular_price": {
+        "amount_in_cents": 64999,
+        "currency_symbol": "$",
+        "display_string": "$649.99"
+      },
+      "sale_price": {
+        "amount_in_cents": 54999,
+        "currency_symbol": "$",
+        "display_string": "$549.99"
+      },
+      "fulfillment": "Online",
+      "availability": "In stock"
+    },
+    {
+      "id": 15,
+      "title": "Samsung 70\" Smart 4K Crystal HDR UHD TV TU7000 Series - Titan Gray",
+      "aisle": "f99",
+      "description": "fetch full product with details from https://api.target.com/mobile_case_study_deals/v1/deals/15",
+      "image_url": "https://appstorage.target.com/app-data/native-tha-images/16.jpg",
+      "regular_price": {
+        "amount_in_cents": 74999,
+        "currency_symbol": "$",
+        "display_string": "$749.99"
+      },
+      "sale_price": {
+        "amount_in_cents": 64999,
+        "currency_symbol": "$",
+        "display_string": "$649.99"
+      },
+      "fulfillment": "Online",
+      "availability": "In stock"
+    },
+    {
+      "id": 16,
+      "title": "VIZIO V-Series 65\" Class 4K HDR Smart TV",
+      "aisle": "a2",
+      "description": "fetch full product with details from https://api.target.com/mobile_case_study_deals/v1/deals/16",
+      "image_url": "https://appstorage.target.com/app-data/native-tha-images/17.jpg",
+      "regular_price": {
+        "amount_in_cents": 62999,
+        "currency_symbol": "$",
+        "display_string": "$629.99"
+      },
+      "sale_price": {
+        "amount_in_cents": 49999,
+        "currency_symbol": "$",
+        "display_string": "$499.99"
+      },
+      "fulfillment": "Online",
+      "availability": "In stock"
+    },
+    {
+      "id": 17,
+      "title": "Element 40\" 1080p FHD LED Roku TV",
+      "aisle": "g17",
+      "description": "fetch full product with details from https://api.target.com/mobile_case_study_deals/v1/deals/17",
+      "image_url": "https://appstorage.target.com/app-data/native-tha-images/18.jpg",
+      "regular_price": {
+        "amount_in_cents": 26999,
+        "currency_symbol": "$",
+        "display_string": "$269.99"
+      },
+      "sale_price": {
+        "amount_in_cents": 21999,
+        "currency_symbol": "$",
+        "display_string": "$219.99"
+      },
+      "fulfillment": "Online",
+      "availability": "In stock"
+    },
+    {
+      "id": 18,
+      "title": "TCL 43\" Class 4-Series 4K UHD HDR Smart Roku TV",
+      "aisle": "h31",
+      "description": "fetch full product with details from https://api.target.com/mobile_case_study_deals/v1/deals/18",
+      "image_url": "https://appstorage.target.com/app-data/native-tha-images/19.jpg",
+      "regular_price": {
+        "amount_in_cents": 36999,
+        "currency_symbol": "$",
+        "display_string": "$369.99"
+      },
+      "sale_price": {
+        "amount_in_cents": 26999,
+        "currency_symbol": "$",
+        "display_string": "$269.99"
+      },
+      "fulfillment": "Online",
+      "availability": "In stock"
+    },
+    {
+      "id": 19,
+      "title": "Samsung 43\" Smart 4K Crystal HDR UHD TV TU7000 Series - Titan Gray",
+      "aisle": "x0",
+      "description": "fetch full product with details from https://api.target.com/mobile_case_study_deals/v1/deals/19",
+      "image_url": "https://appstorage.target.com/app-data/native-tha-images/20.jpg",
+      "regular_price": {
+        "amount_in_cents": 39999,
+        "currency_symbol": "$",
+        "display_string": "$399.99"
+      },
+      "sale_price": {
+        "amount_in_cents": 29999,
+        "currency_symbol": "$",
+        "display_string": "$299.99"
+      },
+      "fulfillment": "Online",
+      "availability": "In stock"
+    }
+  ]
+}
