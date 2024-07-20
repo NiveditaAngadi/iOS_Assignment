@@ -3,7 +3,7 @@ Assignment for the implementation for iOS Application.
 
 Goal is to display a list of deals currently offered and when user tap on one of the deals show the details infromation.
 
-API infromation and UI/UX design has been provided. 
+API information and UI/UX design has been provided. 
 
 ## Software Design:
 Application has designed and implemented using MVVM design pattern. 
